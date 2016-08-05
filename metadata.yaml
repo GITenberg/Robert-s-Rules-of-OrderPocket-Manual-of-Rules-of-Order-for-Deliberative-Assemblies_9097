@@ -1,0 +1,29 @@
+_repo: Robert-s-Rules-of-OrderPocket-Manual-of-Rules-of-Order-for-Deliberative-Assemblies_9097
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Robert, Henry M. (Henry Martyn)
+    alias: Robert, Henry Martyn
+    birthdate: 1837
+    deathdate: 1923
+    gutenberg_agent_id: '2974'
+    url: http://www.gutenberg.org/2009/agents/2974
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Martyn_Robert
+description: ''
+gutenberg_bookshelf: Reference
+gutenberg_issued: '2004-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9097'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parliamentary practice'
+- !lcc 'JF'
+- GITenberg
+title: 'Robert''s Rules of Order
+
+  Pocket Manual of Rules of Order for Deliberative Assemblies'
+url: http://www.gutenberg.org/ebooks/9097
